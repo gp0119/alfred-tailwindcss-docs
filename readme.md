@@ -7,8 +7,8 @@
 
 ## Install
 
-```
-$ npm install --g alfred-tailwindcss-docs
+```bash
+npm install -g alfred-tailwindcss-docs
 ```
 
 *Requires [Node.js](https://nodejs.org) 4+ and the Alfred [Powerpack](https://www.alfredapp.com/powerpack/).*
