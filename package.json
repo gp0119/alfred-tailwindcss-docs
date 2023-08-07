@@ -4,6 +4,7 @@
   "description": "Search the Tailwindcss docs",
   "license": "MIT",
   "repository": "gp0119/alfred-tailwindcss-docs",
+  "type": "module",
   "author": {
     "name": "ganpeng",
     "email": "190875565@qq.com",
