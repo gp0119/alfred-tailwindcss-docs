@@ -47,19 +47,6 @@
 				<false/>
 			</dict>
 		</array>
-		<key>E5B4ED2C-C626-4C69-8BE2-285BE5BF3A73</key>
-		<array>
-			<dict>
-				<key>destinationuid</key>
-				<string>213F91FB-C3FE-4F17-A906-81E1F0B41AE3</string>
-				<key>modifiers</key>
-				<integer>0</integer>
-				<key>modifiersubtext</key>
-				<string></string>
-				<key>vitoclose</key>
-				<false/>
-			</dict>
-		</array>
 	</dict>
 	<key>disabled</key>
 	<false/>
@@ -132,7 +119,7 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>keyword</key>
-				<string>tw1</string>
+				<string>tw2</string>
 				<key>queuedelaycustom</key>
 				<integer>3</integer>
 				<key>queuedelayimmediatelyinitially</key>
@@ -144,7 +131,7 @@
 				<key>runningsubtext</key>
 				<string></string>
 				<key>script</key>
-				<string>./node_modules/.bin/run-node index.js "$1" "v1"</string>
+				<string>./node_modules/.bin/run-node index.js "$1" "v2"</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
@@ -152,7 +139,7 @@
 				<key>subtext</key>
 				<string></string>
 				<key>title</key>
-				<string>Search the Tailwindcss v1 docs</string>
+				<string>Search the Tailwindcss v2 docs</string>
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
@@ -161,7 +148,7 @@
 			<key>type</key>
 			<string>alfred.workflow.input.scriptfilter</string>
 			<key>uid</key>
-			<string>8B81BABD-3B77-47F6-AF59-24F20AE167DE</string>
+			<string>AD07974C-CF16-4813-A1B6-EDC84ADB853D</string>
 			<key>version</key>
 			<integer>3</integer>
 		</dict>
@@ -202,7 +189,7 @@
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>keyword</key>
-				<string>tw2</string>
+				<string>tw1</string>
 				<key>queuedelaycustom</key>
 				<integer>3</integer>
 				<key>queuedelayimmediatelyinitially</key>
@@ -214,7 +201,7 @@
 				<key>runningsubtext</key>
 				<string></string>
 				<key>script</key>
-				<string>./node_modules/.bin/run-node index.js "$1" "v2"</string>
+				<string>./node_modules/.bin/run-node index.js "$1" "v1"</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
@@ -222,7 +209,7 @@
 				<key>subtext</key>
 				<string></string>
 				<key>title</key>
-				<string>Search the Tailwindcss v2 docs</string>
+				<string>Search the Tailwindcss v1 docs</string>
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
@@ -231,56 +218,7 @@
 			<key>type</key>
 			<string>alfred.workflow.input.scriptfilter</string>
 			<key>uid</key>
-			<string>AD07974C-CF16-4813-A1B6-EDC84ADB853D</string>
-			<key>version</key>
-			<integer>3</integer>
-		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>alfredfiltersresults</key>
-				<false/>
-				<key>alfredfiltersresultsmatchmode</key>
-				<integer>0</integer>
-				<key>argumenttreatemptyqueryasnil</key>
-				<true/>
-				<key>argumenttrimmode</key>
-				<integer>0</integer>
-				<key>argumenttype</key>
-				<integer>0</integer>
-				<key>escaping</key>
-				<integer>102</integer>
-				<key>keyword</key>
-				<string>tw3</string>
-				<key>queuedelaycustom</key>
-				<integer>3</integer>
-				<key>queuedelayimmediatelyinitially</key>
-				<true/>
-				<key>queuedelaymode</key>
-				<integer>0</integer>
-				<key>queuemode</key>
-				<integer>1</integer>
-				<key>runningsubtext</key>
-				<string></string>
-				<key>script</key>
-				<string>./node_modules/.bin/run-node index.js "$1" "v3"</string>
-				<key>scriptargtype</key>
-				<integer>1</integer>
-				<key>scriptfile</key>
-				<string></string>
-				<key>subtext</key>
-				<string></string>
-				<key>title</key>
-				<string>Search the Tailwindcss v3 docs</string>
-				<key>type</key>
-				<integer>0</integer>
-				<key>withspace</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.input.scriptfilter</string>
-			<key>uid</key>
-			<string>E5B4ED2C-C626-4C69-8BE2-285BE5BF3A73</string>
+			<string>8B81BABD-3B77-47F6-AF59-24F20AE167DE</string>
 			<key>version</key>
 			<integer>3</integer>
 		</dict>
@@ -292,37 +230,30 @@
 		<key>213F91FB-C3FE-4F17-A906-81E1F0B41AE3</key>
 		<dict>
 			<key>xpos</key>
-			<real>725</real>
+			<real>675</real>
 			<key>ypos</key>
-			<real>260</real>
+			<real>265</real>
 		</dict>
 		<key>2C9E0BD6-89CB-4121-9775-71BD3B4AF792</key>
 		<dict>
 			<key>xpos</key>
-			<real>30</real>
+			<real>40</real>
 			<key>ypos</key>
 			<real>15</real>
 		</dict>
 		<key>8B81BABD-3B77-47F6-AF59-24F20AE167DE</key>
 		<dict>
 			<key>xpos</key>
-			<real>30</real>
+			<real>40</real>
 			<key>ypos</key>
-			<real>180</real>
+			<real>490</real>
 		</dict>
 		<key>AD07974C-CF16-4813-A1B6-EDC84ADB853D</key>
 		<dict>
 			<key>xpos</key>
-			<real>30</real>
+			<real>40</real>
 			<key>ypos</key>
-			<real>350</real>
-		</dict>
-		<key>E5B4ED2C-C626-4C69-8BE2-285BE5BF3A73</key>
-		<dict>
-			<key>xpos</key>
-			<real>35</real>
-			<key>ypos</key>
-			<real>540</real>
+			<real>240</real>
 		</dict>
 	</dict>
 	<key>userconfigurationconfig</key>
