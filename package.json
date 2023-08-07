@@ -1,7 +1,7 @@
 {
   "name": "alfred-tailwindcss-docs",
   "version": "1.0.1",
-  "description": "Search the Tailwindcss docs",
+  "description": "Search the Tailwind CSS docs using Alfref 5",
   "license": "MIT",
   "repository": "gp0119/alfred-tailwindcss-docs",
   "type": "module",
