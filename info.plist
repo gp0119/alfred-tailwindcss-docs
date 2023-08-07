@@ -48,6 +48,10 @@
 			</dict>
 		</array>
 	</dict>
+	<key>createdby</key>
+	<string>ganpeng</string>
+	<key>description</key>
+	<string></string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
@@ -224,7 +228,23 @@
 		</dict>
 	</array>
 	<key>readme</key>
-	<string></string>
+	<string>To search the v3 docs
+
+```bash
+tw &lt;query&gt;
+```
+
+To search the v2 docs
+
+```bash
+tw2 &lt;query&gt;
+```
+
+To search the v1 docs
+
+```bash
+tw1 &lt;query&gt;
+```</string>
 	<key>uidata</key>
 	<dict>
 		<key>213F91FB-C3FE-4F17-A906-81E1F0B41AE3</key>
@@ -258,5 +278,11 @@
 	</dict>
 	<key>userconfigurationconfig</key>
 	<array/>
+	<key>variablesdontexport</key>
+	<array/>
+	<key>version</key>
+	<string>0.0.2</string>
+	<key>webaddress</key>
+	<string>https://github.com/gp0119/alfred-tailwindcss-docs</string>
 </dict>
 </plist>
