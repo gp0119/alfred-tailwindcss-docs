@@ -2,6 +2,7 @@
 
 > Search the Tailwindcss docs
 
+<img src="images/screencast.gif" width="580">
 
 ## Install
 
