@@ -1,6 +1,6 @@
 {
   "name": "alfred-tailwindcss-docs",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Search the Tailwindcss docs",
   "license": "MIT",
   "repository": "gp0119/alfred-tailwindcss-docs",
